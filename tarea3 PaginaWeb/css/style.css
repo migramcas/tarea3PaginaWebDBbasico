@@ -1,0 +1,85 @@
+
+body{
+	margin: 0px;
+}
+
+.encabezadoPagina{
+	background: black;
+	color:#EFEEEE;
+	
+	text-align: center;
+	border:8px;
+	border-width: 8px;
+	border-style: dotted;
+	border-color: white;
+	padding: 1.3%;
+	font-family:  fantasy;
+
+
+
+}
+
+.encabezadoPagina h4{
+	text-align: center;
+	font-style: italic;
+
+}
+
+.encabezadoPagina h1{
+	margin-left: 400px;
+	margin-right: 400px;
+}
+
+
+
+.footer li{
+	list-style: none;
+}
+
+.footer{
+	background: #981212;
+	color: white;
+	padding:1%;
+	text-align: center;
+	font-family:  fantasy;
+}
+
+.footer li{
+	display: inline;
+	margin:1%;
+	text-align:center;
+	width: 160px;
+
+}
+
+
+.footer a{
+	background-color: #1A3371;
+	text-decoration: none;
+	padding: 1%;
+	text-align:center;
+	color:white;
+
+}
+
+div>h3{
+	font-family:  fantasy;
+	margin:20px;
+}
+
+
+.subcategorias table{
+	width: 100%;
+	text-align: center;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
+
+
+table[class~="subcategoria"]{
+	color: black;
+}
+
